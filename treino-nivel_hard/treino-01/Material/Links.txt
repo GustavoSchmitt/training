@@ -1,0 +1,35 @@
+utm_source: NOME DA ÁREA "engajamento_médico"
+utm_medium: TIPO DO CANAL - E-MAIL "email"
+utm_campaign: 20211907_MedNews_10_edição
+
+2.2 - LINKS HTML
+
+- Informações dos links de destino de cada peça
+
+Header
+Site Area Médica: https://www.americasmed.com.br/area-medica
+Inscrição Summit: https://sistemabi.com.br/Amil/Sistemas/RSVP/rsvponline.aspx?evin=9881CD1A954756DA&act=9D5CA9DAF212B8D2&avs=9D5CA9DAF212B8D2&par=HSL06122019
+SOE Oncologia: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/sistemas-de-excelencia-soe-os-motores-que-impulsionam
+SOE Nefrologia/Transplantes: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/nefrologia-e-transplantes
+Exames/Dasa: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/americas-aprimora-seus-servicos-de-exames-1
+Santa Joana: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/santa-joana-recife-reestrutura-gestao-assistencial-para
+Monte Klinikum: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/monte-klinikum-pioneirismo-no-tratamento-do-aneurisma-1
+Tireoide: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/radioablacao-nova-opcao-para-tratar-nodulos-benignos-da
+Junho vermelho/laranja: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/junho-vermelho-e-laranja
+Laudo integrado: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/laudo-integrado-solucao-pioneira-do-pro-cardiaco
+Cirurgia cardíaca: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/cirurgia-cardiaca-alta-em-apenas-tres-dias
+Centro Obstétrico: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/novo-centro-obstetrico-do-madre-theodora-1
+Expertise científica: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/expertise-cientifica-em-destaque
+Santa Lúcia: https://www.americasmed.com.br/central-de-conteudo/informativos-newsletter/santa-lucia-inaugura-centro-medico-americas-medicina-1
+Calendário de eventos: https://www.americasmed.com.br/area-medica/eventos
+Privacidade: https://www.americasmed.com.br/comunicado-de-privacidade?utm_source=SalesForce&utm_medium=Email&utm_campaign=AmericasMedNews_20201218&utm_content=footer
+
+Footer:
+Facebook: https://www.facebook.com/americasmed/
+Instagram: https://www.instagram.com/americasmed/
+YouTube: https://www.youtube.com/channel/UCJ6OqfvzQa3atzHBIyGK9Dg
+Linkedin: https://www.linkedin.com/company/americas-servi%C3%A7os-m%C3%A9dicos/
+Site Area Médica: https://www.americasmed.com.br/area-medica
+**__**
+
+Privacidade: https://www.americasmed.com.br/comunicado-de-privacidade?utm_source=SalesForce&utm_medium=Email&utm_campaign=AmericasMedNews_20201218&utm_content=footer
